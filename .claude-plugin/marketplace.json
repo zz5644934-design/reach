@@ -1,0 +1,11 @@
+{
+  "name": "reach",
+  "owner": { "name": "zz5644934-design" },
+  "plugins": [
+    {
+      "name": "reach",
+      "source": "./",
+      "description": "Read social networks (X, Reddit, YouTube, VK, Telegram, Instagram, TikTok, Facebook, LinkedIn) through your own logged-in sessions. Read-only, rate-limited."
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "name": "reach",
+  "version": "0.1.0",
+  "description": "Read social networks through the user's own logged-in sessions. Read-only, rate-limited."
+}

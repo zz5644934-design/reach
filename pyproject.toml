@@ -1,0 +1,16 @@
+[project]
+name = "reach"
+version = "0.1.0"
+description = "Read-only social media reader for Claude with persistent logged-in sessions"
+requires-python = ">=3.10"
+dependencies = ["playwright>=1.45"]
+
+[project.scripts]
+reach = "reach.cli:main"
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["reach"]
